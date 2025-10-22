@@ -242,4 +242,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 Shubhan Kadam - dev.shubhankadam@gmail.com
-Project Link: [https://github.com/yourusername/stock-market-pipeline](https://github.com/yourusername/stock-market-pipeline)
